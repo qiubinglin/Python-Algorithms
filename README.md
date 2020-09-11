@@ -1,1 +1,2 @@
-# My-Python-Algorithms
+# Python-Algorithms
+# python algorithms learning
